@@ -50,3 +50,9 @@ tasks.processResources {
         expand(props)
     }
 }
+
+tasks.shadowJar {
+    relocate("kotlin", "cc.makin.goxyresourcepack.libs.kotlin")
+    relocate("org.intellij", "cc.makin.goxyresourcepack.libs.org.intellij")
+    relocate("org.jetbrains", "cc.makin.goxyresourcepack.libs.org.jetbrains")
+}
