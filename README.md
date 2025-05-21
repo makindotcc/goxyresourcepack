@@ -9,8 +9,8 @@ resource-pack:
   hash: 2849ace6aa689a8c610907a41c03537310949294
   # If it is required to download the resource pack?
   required: true
-  # Message to show when the resource pack is sent to player.
-  prompt: "This resource pack is required to play on this server. Do you want to download it?"
+  # Message to show when the resource pack is sent to player in minimessage format.
+  prompt: "This resource pack is <b>required</b> to play on this server. Do you want to download it?"
 ```
 
 ## Video presentation
