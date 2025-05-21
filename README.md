@@ -12,3 +12,8 @@ resource-pack:
   # Message to show when the resource pack is sent to player.
   prompt: "This resource pack is required to play on this server. Do you want to download it?"
 ```
+
+## Video presentation
+
+click me:
+[![video presentation](https://img.youtube.com/vi/L41IUiAhQDw/maxresdefault.jpg)](https://youtu.be/L41IUiAhQDw)
