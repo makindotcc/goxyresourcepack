@@ -1,0 +1,6 @@
+resource-pack:
+  url: 'https://mediafilez.forgecdn.net/files/6528/594/FreshAnimations_v1.9.4.zip'
+  # optional resourcepack hash
+  # hash: 2849ace6aa689a8c610907a41c03537310949294
+  required: true
+  prompt: "This resource pack is required to play on this server. Do you want to download it?"

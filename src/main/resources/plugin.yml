@@ -1,0 +1,6 @@
+name: goxyresourcepack
+version: '1.0-SNAPSHOT'
+main: cc.makin.goxyresourcepack.GoxyResourcePackPlugin
+api-version: '1.21'
+depend:
+  - "goxy"
